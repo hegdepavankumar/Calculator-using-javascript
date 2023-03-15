@@ -1,5 +1,11 @@
 # Calculator-using-javascript
 
+
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/Calculator-using-javascript?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Calculator-using-javascript?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Calculator-using-javascript?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Calculator-using-javascript.svg?cache=remove)
+
 This Project developed by using HTML, CSS and Javascript. this simple calculator which can perform basic arithmetic operations like addition, subtraction, multiplication, or division. this is easy to use and good UI and UX.
 
 # Requirements
