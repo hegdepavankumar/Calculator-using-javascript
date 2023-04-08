@@ -8,6 +8,10 @@
 
 This Project developed by using HTML, CSS and Javascript. this simple calculator which can perform basic arithmetic operations like addition, subtraction, multiplication, or division. this is easy to use and good UI and UX.
 
+# Output Sample
+
+![calc](https://user-images.githubusercontent.com/85627085/230719659-25604992-9d3f-4f35-83b7-f6a1d1c2de64.png)
+
 # Requirements
 
 * Code Editor (VS Code Preferred)
