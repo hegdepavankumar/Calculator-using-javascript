@@ -28,7 +28,7 @@ This Project developed by using HTML, CSS and Javascript. this simple calculator
 We will be using HTML, CSS, BootStrap, and JavaScript for developing a simple Calculator. Check out this image for the folder structure of our project.
 The project will include three files, index.html, index.js, and style.css.
 
-https://copyassignment.com/wp-content/uploads/2022/11/Screenshot-2022-11-21-133717.jpg
+![Screenshot-2022-11-21-133717](https://user-images.githubusercontent.com/85627085/230721392-60736c31-f841-459b-8ca1-3ba2b72fb7c3.jpg)
 
 # Conclusion
 I hope this was easy to understand Calculator in HTML CSS JavaScript and that you enjoyed building and learning this at the same time. Along the way, we did some basic dom-manipulation to change the text of the UI, and we also learned to handle exceptions in javascript.
