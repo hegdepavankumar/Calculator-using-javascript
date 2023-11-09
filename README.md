@@ -1,12 +1,12 @@
 # Calculator-using-javascript
 
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/Calculator-using-javascript?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Calculator-using-javascript?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Calculator-using-javascript?style=flat)
+![GitHub](https://img.shields.io/github/license/imhegde/Calculator-using-javascript?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/imhegde/Calculator-using-javascript?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/Calculator-using-javascript?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Calculator-using-javascript.svg?cache=remove)
 
-This Project developed by using HTML, CSS and Javascript. this simple calculator which can perform basic arithmetic operations like addition, subtraction, multiplication, or division. this is easy to use and good UI and UX.
+This Project was developed by using HTML, CSS, and Javascript. this simple calculator which can perform basic arithmetic operations like addition, subtraction, multiplication, or division. this is easy to use and has good UI and UX.
 
 # Output Sample
 
@@ -31,14 +31,14 @@ The project will include three files, index.html, index.js, and style.css.
 ![Screenshot-2022-11-21-133717](https://user-images.githubusercontent.com/85627085/230721392-60736c31-f841-459b-8ca1-3ba2b72fb7c3.jpg)
 
 # Conclusion
-I hope this was easy to understand Calculator in HTML CSS JavaScript and that you enjoyed building and learning this at the same time. Along the way, we did some basic dom-manipulation to change the text of the UI, and we also learned to handle exceptions in javascript.
+I hope this was easy to understanding Calculator in HTML CSS JavaScript and that you enjoyed building and learning this at the same time. Along the way, we did some basic dom-manipulation to change the text of the UI, and we also learned to handle exceptions in JavaScript.
 
 ## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK-master)
 
-(https://github.com/hegdepavankumar). This Project is Created by :-
+(https://github.com/imhegde). This Project is Created by:-
 
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
 
 ```
-           Hey Everyone Please give a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forgot to fork the repo....
+           Hey Everyone Please give me a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forget to fork the repo...
           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Thank you~~~🙏😍~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
