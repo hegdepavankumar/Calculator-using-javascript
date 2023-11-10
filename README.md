@@ -1,9 +1,9 @@
 # Calculator-using-javascript
 
 
-![GitHub](https://img.shields.io/github/license/imhegde/Calculator-using-javascript?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/Calculator-using-javascript?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/Calculator-using-javascript?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/Calculator-using-javascript?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Calculator-using-javascript?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Calculator-using-javascript?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Calculator-using-javascript.svg?cache=remove)
 
 This Project was developed by using HTML, CSS, and Javascript. this simple calculator which can perform basic arithmetic operations like addition, subtraction, multiplication, or division. this is easy to use and has good UI and UX.
@@ -35,9 +35,9 @@ I hope this was easy to understanding Calculator in HTML CSS JavaScript and that
 
 ## Creator [🔝](#Building-a-Simple-Chatbot-in-Python-using-NLTK-master)
 
-(https://github.com/imhegde). This Project is Created by:-
+(https://github.com/hegdepavankumar). This Project is Created by:-
 
-| [<img src="https://github.com/imhegde.png?size=115" width="115"><br><sub>@imhegde</sub>](https://github.com/imhegde) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
 ```
            Hey Everyone Please give me a star .. and Follow me for more amazing project ideas and Updates⭐ and don't forget to fork the repo...
